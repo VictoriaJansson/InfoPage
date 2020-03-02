@@ -1,0 +1,6 @@
+rootProject.name='My Application'
+include ':app'
+include ':app:myfirstapp'
+include ':app:quicklauncher'
+include ':app:myapplication'
+include ':app:information'
